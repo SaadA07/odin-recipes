@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first website without a step by step process. Through this, I hope to show the skills I've learned in the HTML Foundations course on The Odin Project. Here's to a successful and beneficial code!
